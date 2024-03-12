@@ -1,0 +1,35 @@
+.navbar{
+    height: 100px;
+    width: 1400px;
+    background-color: black;
+    margin: 10;
+    color: aqua;
+    text-align: center;
+    border: 8px solid chartreuse;
+    display: inline-block;
+}
+.nav1{
+    text-transform: uppercase;
+    text-decoration:none;
+    font-weight: bolder;
+    font-style: italic;
+    margin: 4px;
+}
+.nav2{
+    text-transform: uppercase;
+    text-decoration:none;
+    font-weight: bolder;
+    font-style: italic;
+}
+.nav3{
+    text-transform: uppercase;
+    text-decoration:none;
+    font-weight: bolder;
+    font-style: italic;
+}
+.nav4{
+    text-transform: uppercase;
+    text-decoration:none;
+    font-weight: bolder;
+    font-style: italic;
+}
